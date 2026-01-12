@@ -4,6 +4,7 @@ app_publisher = "PRAJWAL PAWAR"
 app_description = "Land Management Syste"
 app_email = "pawarprajwal957@gmail.com"
 app_license = "mit"
+fixtures = ["Floor Rise"]
 
 # Apps
 # ------------------
